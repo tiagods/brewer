@@ -42,7 +42,7 @@
 		<!-- Flyway -->
 		<flyway-maven-plugin.version>4.0.2</flyway-maven-plugin.version>
 		<!-- Mysql -->
-		<mysql-connector-java.version>5.1.39</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 		<!-- Spring Data JPA -->
 		<spring-data-jpa.version>2.0.0.RELEASE</spring-data-jpa.version>	
 		<!-- Jackson JSON - Converson de JSON para objetos java -->
